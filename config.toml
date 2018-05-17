@@ -1,10 +1,10 @@
 languageCode = "en-us"
-title = "Talkspace"
+title = "Talkspace Club"
 baseurl = "http://talkspace.club/"
 theme = "aerial"
 
 [params]
-  name = "Talkspace"
+  name = "Talkspace Club"
   about = "Coming soon"
   copyright = "Ron Forbes"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
