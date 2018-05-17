@@ -9,4 +9,4 @@ theme = "aerial"
   copyright = "Ron Forbes"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
-  favicon = "favicon.ico"
+  favicon = "favicon.png"
